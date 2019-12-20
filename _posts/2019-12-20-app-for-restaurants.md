@@ -5,8 +5,8 @@ tags: [Crafting Software Product Studio]
 comments: true
 ---
 
-Dining out is not always a great experience. Sometimes you have to wait to much before ordering, wave your hands desperately to get another glass of wine, wait for the check and when you finally get it, start negociating with your friends on how to split the bill and how to pay.
-There has to be better way in 2019. Why not have an app for this? Imagine you walk into the restaurant, seat at a table, open the app, get smart personal recommendations and order right away, from within the app. When your order is ready, the waiter brings the food to your table and when you are done, you pay from the app, sit up and simply leave.
+Dining out is not always a great experience. Sometimes you have to wait too much before ordering, wave your hands desperately to get another glass of wine, wait for the check and when you finally get it, start negociating with your friends on how to split the bill and how to pay.
+There has to be better way in 2019. Why not have an app for this? Imagine you walk into the restaurant, have a seat, open the app, get smart personal recommendations and order right away, from within the app. When your order is ready, the waiter brings the food to your table and when you are done, you pay from the app, stand up and simply leave.
 
 _“This is a great idea, let’s builld it!”_ is the first instinct. Without last year’s learnings from launching our first product, [Mony](http://mony.craftingsoftware.com/), a personal finance advisor app, we would have done just that. We would have worked three months on a prototype, involved our friends to gather feedback, tried to market it for another three months, entered start-up challenges and made newspaper headlines. All that only to find ourselves one year later pushing an ideea that doesn’t actually work.
 Instead, it only took us one week to kill the idea and not a single line of code was written.
@@ -15,7 +15,7 @@ This is the first idea that came out of our improved Crafting Software Product S
 ### The less than optimal dining experience
 As with many other products on the market, the need comes from the founder’s own painful experiences. We felt the pain and we saw a way to improve the dining experience.
 
-Sometimes you wait too much until you get a menu on the table. If the group is large, the waiter has to come back several times until everyone has decided. During the meal, if you need to ask for another glass of wine, you need to look for the waiter and wave. Not to mention the check. Now that you have already eaten, the waiter is prioritizing hungrier customers. When you finally get the check, the calculations start. You need to fish for the items you ordered and add the prices. How do you handle the payment as a group? One person pays the entire amount with the credit card while others either offer cash or transfer their part via Revolut. And finally the tips… If you don’t have any cash at all, you have to borrow from friends. If you only have a large bills, you have to ask the waiter to split it.
+Sometimes you wait too much until you get a menu on the table. If the group is large, the waiter has to come back several times until everyone has decided. During the meal, if you need to ask for another glass of wine, you need to look for the waiter and wave. Not to mention the check. Now that you have already eaten, the waiter is prioritizing hungrier customers. When you finally get the check, the calculations start. You need to fish for the items you ordered and add the prices. How do you handle the payment as a group? One person pays the entire amount with the credit card while others either offer cash or transfer their part via Revolut. And finally the tips… If you don’t have any cash at all, you have to borrow from friends. If you only have large bills, you have to ask the waiter to split it.
 This is such a mess, there has to be a better way.
 
 ### The solution and vision
@@ -47,7 +47,7 @@ Since the job of the waiter becomes moving plates between the kitchen and dining
 
 ##### The customer
 * Less waiting time at the beginning and end of the dining experience
-* Faster and convenient payments
+* More convenient payments
 * Personalized recommendations
 
 This was the first set of assumptions that needed validation. There were of course others, but you cannot have a business without first creating value.
