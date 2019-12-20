@@ -21,7 +21,7 @@ During the meal you can order another drink or get some dessert. If you need to 
 #####The payment
 The app displays the table’s order with your items already selected, so you again push a button and you are done. This also allows you to leave the group earlier without much fuss. Tips are optional but encouraged by the app.
 
-![draft design screens](img/app-for-restaurants-screens.png)
+![draft design screens](../img/app-for-restaurants-screens.png)
 
 The rollout plan was to make the app available in a small number of restaurants in Cluj-Napoca in order to gather feedback and get to a product-market fit. In the scaling phase, rollout the entire city and then expand nationally and internationally. This improved dining experience would become the new way of eating out and that would force reluctant restaurants to adopt it. You install the app once and use it everywhere.
 
