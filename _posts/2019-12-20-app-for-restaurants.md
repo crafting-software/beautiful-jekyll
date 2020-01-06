@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why a mobile app for ordering and paying in restaurants is not a good business idea
-image: /img/app-for-restaurants-screens.png
 tags: [Crafting Software Product Studio]
 comments: true
 ---
