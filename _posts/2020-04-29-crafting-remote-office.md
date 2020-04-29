@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why a mobile app for ordering and paying in restaurants is not a good business idea
-tags: [Crafting Software Product Studio]
+title: Crafting Software in full remote work mode. Two months later...
+tags: [Crafting Software]
 comments: true
 ---
 
