@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Crafting Software in full remote work mode. Two months later...
+title: Is going fully remote a viable solution for a company?
 tags: [Crafting Software]
 comments: true
 ---
 
 ### Greetings from my home office!
 
-I want to share with you our personal experience and insights on working fully remote in the last 7 weeks.
+I want to share with you our personal experience and insights on working fully remote in the last 2 months.
 
 Our team went on a full remote mode before official measures were taken by the authorities. This was done both to protect our colleagues and because we had the firm belief that it is the responsible thing to do. Our hope was that we won’t be affected by this new setup. Why would we be? We were used to remote work, we trust our team and we have all the resources to pull through this challenge.
 
