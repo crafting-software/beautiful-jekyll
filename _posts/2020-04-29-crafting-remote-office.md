@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is going fully remote a viable solution for a company?
+title: Is going fully remote a viable solution for your company?
 tags: [Crafting Software]
 comments: true
 ---
